@@ -1,0 +1,62 @@
+C:\Users\ASUS\AppData\Local\Programs\Python\Python39\python.exe C:/Users/ASUS/PycharmProjects/pythonProject/main.py
+ | | 
+-+-+-
+ | | 
+-+-+-
+ | | 
+It's your turn,X.Move to which place?
+7
+X| | 
+-+-+-
+ | | 
+-+-+-
+ | | 
+It's your turn,O.Move to which place?
+9
+X| |O
+-+-+-
+ | | 
+-+-+-
+ | | 
+It's your turn,X.Move to which place?
+5
+X| |O
+-+-+-
+ |X| 
+-+-+-
+ | | 
+It's your turn,O.Move to which place?
+3
+X| |O
+-+-+-
+ |X| 
+-+-+-
+ | |O
+It's your turn,X.Move to which place?
+6
+X| |O
+-+-+-
+ |X|X
+-+-+-
+ | |O
+It's your turn,O.Move to which place?
+1
+X| |O
+-+-+-
+ |X|X
+-+-+-
+O| |O
+It's your turn,X.Move to which place?
+4
+X| |O
+-+-+-
+X|X|X
+-+-+-
+O| |O
+
+Game Over.
+
+ **** X won. ****
+Do want to play Again?(y/n)n
+
+Process finished with exit code 0
